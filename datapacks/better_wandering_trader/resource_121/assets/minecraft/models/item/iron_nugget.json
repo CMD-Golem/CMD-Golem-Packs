@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_nugget"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 4024112}, "model": "item/item_magnet"},
+		{ "predicate": {"custom_model_data": 4024113}, "model": "item/anvil_repair"}
+	]
+}

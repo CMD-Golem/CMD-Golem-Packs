@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item_frame:invisible_glow_item_frame"
+      }
+    }
+  },
+  "rewards": {
+    "function": "item_frame:craft_glow/detect_craft"
+  }
+}

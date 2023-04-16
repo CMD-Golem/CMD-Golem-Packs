@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 4024112}, "model": "item/bone_dust"}
+	]
+}

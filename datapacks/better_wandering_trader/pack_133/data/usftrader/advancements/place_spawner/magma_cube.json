@@ -1,0 +1,17 @@
+{
+  "rewards": {
+    "function": "usftrader:items/epic/spawner_breaker/place/magma_cube"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "spawner",
+        "item": {
+          "item": "spawner",
+          "nbt": "{usftrader_setspawner:\"magma_cube\"}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": [    "minecraft:comparator",    "minecraft:repeater",    "minecraft:redstone_wire",    "minecraft:stone_pressure_plate",    "#minecraft:wooden_pressure_plates",    "#minecraft:buttons",    "#minecraft:trapdoors",    "minecraft:lever",    "minecraft:tripwire_hook",    "#minecraft:doors",    "minecraft:redstone_torch",    "minecraft:daylight_detector",    "#minecraft:rails",    "#chest_lock:fence_gates"    ]
+}

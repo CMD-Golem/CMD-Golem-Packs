@@ -1,0 +1,12 @@
+{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    {
+      "text": "Shift right click a Chest to lock and open it",
+      "color": "gray",
+      "italic": false
+    }
+  ],
+  "replace": true
+}

@@ -1,0 +1,17 @@
+{
+  "rewards": {
+    "function": "usftrader:items/epic/spawner_breaker/place/spider"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "spawner",
+        "item": {
+          "item": "spawner",
+          "nbt": "{usftrader_setspawner:\"spider\"}"
+        }
+      }
+    }
+  }
+}
