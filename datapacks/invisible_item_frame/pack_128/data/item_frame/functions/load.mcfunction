@@ -1,1 +1,0 @@
-scoreboard objectives add item_frame dummy

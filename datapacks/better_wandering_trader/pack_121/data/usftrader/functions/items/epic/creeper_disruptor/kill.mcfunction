@@ -1,3 +1,0 @@
-kill @e[type=item,nbt={Item:{id:"minecraft:andesite_wall",Count:1b}},limit=1]
-kill @s
-summon item ~ ~ ~ {Item:{id:"minecraft:armor_stand",Count:1b,tag:{display:{Name:'{"text":"Creeper Disrupter","color":"dark_purple","italic":false}',Lore:['{"text":"Disrupts all Creeper in a radius of 30 Blocks","color":"gray","italic":false}','{"text":"when placed on Ground","color":"gray","italic":false}']},CustomModelData:4024112,usftrader_creeper_disruptor:1b,EntityTag:{id:"minecraft:area_effect_cloud",Duration:2147483646,Tags:["usftrader_creeper_disruptor_spawn"]}}}}

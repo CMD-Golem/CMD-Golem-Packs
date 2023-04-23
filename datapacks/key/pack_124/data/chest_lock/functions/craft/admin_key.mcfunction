@@ -1,1 +1,0 @@
-give @s minecraft:warped_fungus_on_a_stick{display:{Name:'{"text":"Admin Key","italic":false}',Lore:['{"text":"Shift right click a Chest to lock and open it","color":"gray","italic":false}']},CustomModelData:4268953,chestlock_item:1b,chestlock_admin:1b} 1

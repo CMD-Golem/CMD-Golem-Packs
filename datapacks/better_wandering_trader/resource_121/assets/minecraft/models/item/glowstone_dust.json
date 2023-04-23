@@ -1,9 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/glowstone_dust"
-	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 4024112}, "model": "item/horse_upgrade"}
-	]
-}

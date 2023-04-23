@@ -1,4 +1,0 @@
-{
-  "replace": false,
-  "values": [    "minecraft:void_air",    "minecraft:cave_air",    "minecraft:air",    "minecraft:water",    "minecraft:lava",    "#chest_lock:redstone",    "#minecraft:banners",    "#minecraft:signs",    "#chest_lock:plants",    "minecraft:torch",    "#minecraft:carpets",    "#minecraft:walls",    "#minecraft:slabs",    "#minecraft:fences",    "#chest_lock:glass_panes",    "minecraft:snow",    "minecraft:ladder",    "minecraft:lantern",    "minecraft:end_rod",    "minecraft:iron_bars"    ]
-}

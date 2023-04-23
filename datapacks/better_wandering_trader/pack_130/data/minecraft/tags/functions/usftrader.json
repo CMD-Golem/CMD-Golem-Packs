@@ -1,7 +1,0 @@
-{
- "values": [
-   "usftrader:trades/trades_common",
-   "usftrader:trades/trades_rare",
-   "usftrader:trades/trades_epic"
- ]
-}
