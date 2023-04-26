@@ -8,7 +8,7 @@ The version id is always the first compatible version and is used until a newer 
 
 ## Example
 Saved Versions of the Pack: pack_121, pack_128, pack_135
- - User selects MC Version between 1.15.2 and 1.16.2 -> So he gets pack_121
+ - User selects MC Version between 1.15.2 and 1.16.5 -> So he gets pack_121
  - 1.17 - 1.19.1 -> pack_128
  - 1.19.2 and newer -> pack_135
 
