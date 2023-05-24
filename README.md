@@ -3,7 +3,7 @@
 Repository for all my Data Packs, Resource Packs and Maps.
 
 ## Folder structure
-Each Pack is saved in his folder as its different versions. The name is made of the prefix "pack_" and the version id .
+Each Pack is saved in his folder as its different versions. The name is made of the prefix "pack_" and the version id.
 The version id is always the first compatible version and is used until a newer version with a bigger version id is registered.
 
 ## Example
@@ -18,6 +18,7 @@ If a Data Pack has a Resource Pack, it is saved like the Data Pack, but with the
 ## Version ID Table
 | MC Version | Version ID |
 | ------------- |:-------------:|
+| 1.20   | 138 |
 | 1.19.4 | 137 |
 | 1.19.3 | 136 |
 | 1.19.2 | 135 |
@@ -47,7 +48,7 @@ If a Data Pack has a Resource Pack, it is saved like the Data Pack, but with the
 | 1.13   | 111 |
 | 1.12   | 106 |
 | 1.11   | 105 |
-| 1.1    | 104 |
+| 1.10   | 104 |
 | 1.9    | 103 |
 | 1.8    | 102 |
 | 1.7    | 101 |
