@@ -2,5 +2,6 @@
 124: same, no craf addon
 128: function anvil, spike
 140: new nbt casing of effects
+141: changed Fuse to fuse
 
 Ressource Pack can also for contain new arrows in old packs
