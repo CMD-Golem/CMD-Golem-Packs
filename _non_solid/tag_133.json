@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:void_air",
+		"minecraft:cave_air",
 		"minecraft:acacia_button",
 		"minecraft:acacia_door",
 		"minecraft:acacia_fence",
@@ -13,6 +15,7 @@
 		"minecraft:acacia_trapdoor",
 		"minecraft:acacia_wall_sign",
 		"minecraft:activator_rail",
+		"minecraft:air",
 		"minecraft:allium",
 		"minecraft:amethyst_cluster",
 		"minecraft:andesite_slab",

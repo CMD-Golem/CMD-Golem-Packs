@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:void_air",
+		"minecraft:cave_air",
 		"minecraft:acacia_button",
 		"minecraft:acacia_door",
 		"minecraft:acacia_fence",
@@ -11,6 +13,7 @@
 		"minecraft:acacia_stairs",
 		"minecraft:acacia_trapdoor",
 		"minecraft:activator_rail",
+		"minecraft:air",
 		"minecraft:allium",
 		"minecraft:anvil",
 		"minecraft:attached_melon_stem",
