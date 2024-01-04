@@ -18,6 +18,10 @@ If a Data Pack has a Resource Pack, it is saved like the Data Pack, but with the
 ## Version ID Table
 | MC Version | Version ID |
 | ------------- |:-------------:|
+| 1.20.4 | 142 |
+| 1.20.3 | 141 |
+| 1.20.2 | 140 |
+| 1.20.1 | 139 |
 | 1.20   | 138 |
 | 1.19.4 | 137 |
 | 1.19.3 | 136 |
