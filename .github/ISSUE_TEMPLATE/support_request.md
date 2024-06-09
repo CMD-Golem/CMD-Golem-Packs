@@ -1,8 +1,8 @@
 ---
 name: Support request
-about: Get support for problem you encountered
+about: Get support for general things
 title: ''
-labels: question
+labels: support
 assignees: ''
 
 ---
