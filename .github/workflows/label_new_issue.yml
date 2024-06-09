@@ -1,0 +1,26 @@
+name: Label new issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Label new issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const urlParams = new URLSearchParams(window.location.search);
+            const label =  urlParams.get("label");
+            const issueNumber = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            await github.issues.addLabels({
+              owner,
+              repo,
+              issue_number: issueNumber,
+              labels: [label],
+            });
