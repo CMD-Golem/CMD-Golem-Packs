@@ -6,3 +6,4 @@
 | 130 | New blocks in soul_block.json |
 | 138 | Wither Bone Meal in Crafting Table |
 | 143 | 1.20.5 command format, short_grass in block tag |
+| 145 | New folder names, looting table changes (looting enchantment) |
