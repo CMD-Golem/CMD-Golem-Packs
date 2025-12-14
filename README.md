@@ -12,12 +12,15 @@ Saved Versions of the Pack: pack_121, pack_128, pack_135
  - 1.17 - 1.19.1 -> pack_128
  - 1.19.2 and newer -> pack_135
 
-## Resource Pack von Data Pack
+## Resource Pack of Data Pack
 If a Data Pack has a Resource Pack, it is saved like the Data Pack, but with the prefix "resource_" instead of "pack_".
 
 ## Version ID Table
 | MC Version | Version ID |
 | ------------- |:-------------:|
+| 1.21.11 | 156 |
+| 1.21.10 | 155 |
+| 1.21.9 | 154 |
 | 1.21.8 | 153 |
 | 1.21.7 | 152 |
 | 1.21.6 | 151 |
